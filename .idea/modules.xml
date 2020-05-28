@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/blockchain-java.iml" filepath="$PROJECT_DIR$/blockchain-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blockchain-part1/blockchain-part1.iml" filepath="$PROJECT_DIR$/blockchain-part1/blockchain-part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blockchain-part2/blockchain-part2.iml" filepath="$PROJECT_DIR$/blockchain-part2/blockchain-part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bokunoblocak/bokunoblocak.iml" filepath="$PROJECT_DIR$/bokunoblocak/bokunoblocak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo!!!!/demo.iml" filepath="$PROJECT_DIR$/demo!!!!/demo.iml" />
+    </modules>
+  </component>
+</project>
